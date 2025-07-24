@@ -1,0 +1,140 @@
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Roboto:100,300,400,500,700
+File Name: D:\web x\validacion.ministeriodeeducacion.gob.do\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensans/v43/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: D:\web x\validacion.ministeriodeeducacion.gob.do\s\opensans\v43\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v43/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: D:\web x\validacion.ministeriodeeducacion.gob.do\s\opensans\v43\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v43/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: D:\web x\validacion.ministeriodeeducacion.gob.do\s\opensans\v43\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v43/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: D:\web x\validacion.ministeriodeeducacion.gob.do\s\opensans\v43\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+File Name: D:\web x\validacion.ministeriodeeducacion.gob.do\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+File Name: D:\web x\validacion.ministeriodeeducacion.gob.do\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf
+File Name: D:\web x\validacion.ministeriodeeducacion.gob.do\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+File Name: D:\web x\validacion.ministeriodeeducacion.gob.do\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+File Name: D:\web x\validacion.ministeriodeeducacion.gob.do\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://validacion.ministeriodeeducacion.gob.do/?Token=DF8DBB85E22E
+File Name: D:\web x\validacion.ministeriodeeducacion.gob.do\index.htm
+Content Type: text/html
+
+Uri: https://validacion.ministeriodeeducacion.gob.do/Bootstrap/css/bootstrap-theme.min.css
+File Name: D:\web x\validacion.ministeriodeeducacion.gob.do\Bootstrap\css\bootstrap-theme.min.css
+Content Type: text/css
+
+Uri: https://validacion.ministeriodeeducacion.gob.do/Bootstrap/css/bootstrap.min.css
+File Name: D:\web x\validacion.ministeriodeeducacion.gob.do\Bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://validacion.ministeriodeeducacion.gob.do/Bootstrap/fonts/glyphicons-halflings-regular.eot
+File Name: D:\web x\validacion.ministeriodeeducacion.gob.do\Bootstrap\fonts\glyphicons-halflings-regular.eot
+Content Type: application/octet-stream
+
+Uri: https://validacion.ministeriodeeducacion.gob.do/Bootstrap/fonts/glyphicons-halflings-regular.eot?
+File Name: D:\web x\validacion.ministeriodeeducacion.gob.do\Bootstrap\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/octet-stream
+
+Uri: https://validacion.ministeriodeeducacion.gob.do/Bootstrap/fonts/glyphicons-halflings-regular.svg
+File Name: D:\web x\validacion.ministeriodeeducacion.gob.do\Bootstrap\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://validacion.ministeriodeeducacion.gob.do/Bootstrap/fonts/glyphicons-halflings-regular.ttf
+File Name: D:\web x\validacion.ministeriodeeducacion.gob.do\Bootstrap\fonts\glyphicons-halflings-regular.ttf
+Content Type: application/octet-stream
+
+Uri: https://validacion.ministeriodeeducacion.gob.do/Bootstrap/js/bootstrap.min.js
+File Name: D:\web x\validacion.ministeriodeeducacion.gob.do\Bootstrap\js\bootstrap.min.js
+Content Type: application/x-javascript
+
+Uri: https://validacion.ministeriodeeducacion.gob.do/Content/base.css
+File Name: D:\web x\validacion.ministeriodeeducacion.gob.do\Content\base.css
+Content Type: text/css
+
+Uri: https://validacion.ministeriodeeducacion.gob.do/Content/certificado.css
+File Name: D:\web x\validacion.ministeriodeeducacion.gob.do\Content\certificado.css
+Content Type: text/css
+
+Uri: https://validacion.ministeriodeeducacion.gob.do/Content/fonts.css
+File Name: D:\web x\validacion.ministeriodeeducacion.gob.do\Content\fonts.css
+Content Type: text/css
+
+Uri: https://validacion.ministeriodeeducacion.gob.do/Content/grid.css
+File Name: D:\web x\validacion.ministeriodeeducacion.gob.do\Content\grid.css
+Content Type: text/css
+
+Uri: https://validacion.ministeriodeeducacion.gob.do/Content/loading.css
+File Name: D:\web x\validacion.ministeriodeeducacion.gob.do\Content\loading.css
+Content Type: text/css
+
+Uri: https://validacion.ministeriodeeducacion.gob.do/Content/media.css
+File Name: D:\web x\validacion.ministeriodeeducacion.gob.do\Content\media.css
+Content Type: text/css
+
+Uri: https://validacion.ministeriodeeducacion.gob.do/Content/normalize.css
+File Name: D:\web x\validacion.ministeriodeeducacion.gob.do\Content\normalize.css
+Content Type: text/css
+
+Uri: https://validacion.ministeriodeeducacion.gob.do/Content/primaryNav.css
+File Name: D:\web x\validacion.ministeriodeeducacion.gob.do\Content\primaryNav.css
+Content Type: text/css
+
+Uri: https://validacion.ministeriodeeducacion.gob.do/Content/root.min.css
+File Name: D:\web x\validacion.ministeriodeeducacion.gob.do\Content\root.min.css
+Content Type: text/css
+
+Uri: https://validacion.ministeriodeeducacion.gob.do/Content/style.css
+File Name: D:\web x\validacion.ministeriodeeducacion.gob.do\Content\style.css
+Content Type: text/css
+
+Uri: https://validacion.ministeriodeeducacion.gob.do/fonts/gpweb.eot?ts9oqu
+File Name: D:\web x\validacion.ministeriodeeducacion.gob.do\fonts\gpweb.eot
+Content Type: application/octet-stream
+
+Uri: https://validacion.ministeriodeeducacion.gob.do/fonts/gpweb.ttf?ts9oqu
+File Name: D:\web x\validacion.ministeriodeeducacion.gob.do\fonts\gpweb.ttf
+Content Type: application/octet-stream
+
+Uri: https://validacion.ministeriodeeducacion.gob.do/img/escudo_republica_dominicana.png
+File Name: D:\web x\validacion.ministeriodeeducacion.gob.do\img\escudo_republica_dominicana.png
+Content Type: image/png
+
+Uri: https://validacion.ministeriodeeducacion.gob.do/img/favicon/favicon.ico
+File Name: D:\web x\validacion.ministeriodeeducacion.gob.do\img\favicon\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://validacion.ministeriodeeducacion.gob.do/Scripts/jquery-3.1.1.js
+File Name: D:\web x\validacion.ministeriodeeducacion.gob.do\Scripts\jquery-3.1.1.js
+Content Type: application/x-javascript
+
+Uri: https://validacion.ministeriodeeducacion.gob.do/Scripts/jquery-barcode.js
+File Name: D:\web x\validacion.ministeriodeeducacion.gob.do\Scripts\jquery-barcode.js
+Content Type: application/x-javascript
+
+Uri: https://validacion.ministeriodeeducacion.gob.do/Scripts/root.js
+File Name: D:\web x\validacion.ministeriodeeducacion.gob.do\Scripts\root.js
+Content Type: application/x-javascript
+
